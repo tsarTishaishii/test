@@ -21,10 +21,10 @@ console.log(person.name);
 console.log(person["name"]);
 let arr = ['plum.png','orange.jpg','apple.bmp'];
 console.log(arr[2]);
-//alert("Hello world");
-//let answer = confirm("Are you here?");
-//console.log(answer);
-//let answer = +prompt("How yor Old? 18 есть?", "Да");
+alert("Hello world"); // рамка с подтверждением действия ОК
+let answer = confirm("Are you here?");//рамка с подтверждением действия ОК Отмена
+console.log(answer);
+let answer1 = prompt("How yor Old? 18 есть?", "Да");//рамка с вводом информации
 //console.log(typeof(answer));
 //console.log("arr" + " - object");
 //console.log(4 + +" - object");
