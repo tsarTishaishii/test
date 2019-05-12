@@ -21,7 +21,7 @@ console.log(person.name);
 console.log(person["name"]);
 let arr = ['plum.png','orange.jpg','apple.bmp'];
 console.log(arr[2]);
-alert("Hello world"); // рамка с подтверждением действия ОК
+alert("Hello world"); // рамка с подтверждением действия ОК (ВНИМАНИЕ)
 let answer = confirm("Are you here?");//рамка с подтверждением действия ОК Отмена
 console.log(answer);
 let answer1 = prompt("How yor Old? 18 есть?", "Да");//рамка с вводом информации
